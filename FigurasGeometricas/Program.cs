@@ -1,5 +1,7 @@
 ﻿class Program
 {
+    private static double ancho;
+
     static void Main()
     {
         List<Forma> formas = new List<Forma>();
